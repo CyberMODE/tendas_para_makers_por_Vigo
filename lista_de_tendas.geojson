@@ -11,13 +11,32 @@
         "address": "Av. Fragoso, 26, 36210 Vigo, Pontevedra",
         "web": "http://www.eurohobbies.es/",
         "image": "http://www.eurohobbies.es/media/portada/banner2.jpg",
-        "shells": "Maquetas, slot"
+        "sells": "Maquetas, slot"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -8.7338375,
           42.2188828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "shop",
+        "name": "Iturmendi",
+        "address": "Rúa do Progreso, 18, 36202 Vigo, Pontevedra",
+        "web": "https://www.ferreteriaiturmendi.es/",
+        "sells": "Cousas de ferretería"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.723579049110413,
+          42.23570859935509
         ]
       }
     }
