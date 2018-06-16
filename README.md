@@ -10,10 +10,14 @@ Se queredes editar o ficheiro GeoJSON para facer un pull request, os pasos que e
  2. Copiar o texto da lista de tendas en https://raw.githubusercontent.com/aindustriosa/tendas_para_makers_por_Vigo/master/lista_de_tendas.geojson
  3. Pegar o texto en geoson.io e engadir a nova tenda.
  4. Engadir a tenda. Básicamente, trátase de engadir unha nova entrada á lista de "features" no JSON. Máis sobre isto despois.
+ ![alt text](https://raw.githubusercontent.com/aindustriosa/tendas_para_makers_por_Vigo/master/readme_images/geojson_example.png)
+
  5. Cando esteas contento co resultado, copia o contido do ficheiro, edita lista_de_tendas.geojson online usando a URL https://github.com/aindustriosa/tendas_para_makers_por_Vigo/edit/master/lista_de_tendas.geojson e pega o teu ficheiro.
  6. Preme ó botón "preview changes" para ver se o resultado é o que esperabas.
  7. Envía un pull request co resultado.
- 
+ ![alt text](https://github.com/aindustriosa/tendas_para_makers_por_Vigo/blob/master/readme_images/github_example_1.png)
+ ![alt text](https://github.com/aindustriosa/tendas_para_makers_por_Vigo/blob/master/readme_images/github_example_2.png)
+
  Unha entrada da lista de "features", unha nova tenda, debería ter esta forma:
  
  ```
