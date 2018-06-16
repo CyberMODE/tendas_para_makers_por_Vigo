@@ -7,13 +7,17 @@
         "marker-color": "#ff0000",
         "marker-size": "medium",
         "marker-symbol": "shop",
-        "Nombre": "hola"
+        "name": "Eurohobbies",
+        "address": "Av. Fragoso, 26, 36210 Vigo, Pontevedra",
+        "web": "http://www.eurohobbies.es/",
+        "image": "http://www.eurohobbies.es/media/portada/banner2.jpg",
+        "shells": "Maquetas, slot"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.719467222690582,
-          42.229347538784445
+          -8.7338375,
+          42.2188828
         ]
       }
     }
