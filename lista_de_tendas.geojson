@@ -1,44 +1,174 @@
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#ff0000",
-        "marker-size": "medium",
-        "marker-symbol": "shop",
-        "name": "Eurohobbies",
-        "address": "Av. Fragoso, 26, 36210 Vigo, Pontevedra",
-        "web": "http://www.eurohobbies.es/",
-        "image": "http://www.eurohobbies.es/media/portada/banner2.jpg",
-        "sells": "Maquetas, slot"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.7338375,
-          42.2188828
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#ff0000",
-        "marker-size": "medium",
-        "marker-symbol": "shop",
-        "name": "Iturmendi",
-        "address": "Rúa do Progreso, 18, 36202 Vigo, Pontevedra",
-        "web": "https://www.ferreteriaiturmendi.es/",
-        "sells": "Cousas de ferretería"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.723579049110413,
-          42.23570859935509
-        ]
-      }
-    }
-  ]
+	"type": "FeatureCollection",
+	"features": [{
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#ff0000",
+			"marker-size": "medium",
+			"marker-symbol": "shop",
+			"name": "Eurohobbies",
+			"address": "Av. Fragoso, 26, 36210 Vigo, Pontevedra",
+			"web": "http://www.eurohobbies.es/",
+			"image": "http://www.eurohobbies.es/media/portada/banner2.jpg",
+			"sells": "Maquetas, slot"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-8.7338375,
+			42.2188828]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#ff0000",
+			"marker-size": "medium",
+			"marker-symbol": "shop",
+			"name": "Iturmendi",
+			"address": "Rúa do Progreso, 18, 36202 Vigo, Pontevedra",
+			"web": "https://www.ferreteriaiturmendi.es/",
+			"sells": "Cousas de ferretería"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-8.723579049110413,
+			42.23570859935509]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#ff0000",
+			"marker-size": "medium",
+			"marker-symbol": "shop",
+			"name": "FormulaKit",
+			"address": " Calle de Regueiro, 11, 36211 Vigo, Pontevedra",
+			"web": "http://www.formulakit.com/",
+			"sells": "Maquetas, slot"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-8.728857,
+			42.222349]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#ff0000",
+			"marker-size": "medium",
+			"marker-symbol": "shop",
+			"name": "Electroson",
+			"address": "Rúa de Venezuela, 23, 36203 Vigo, Pontevedra",
+			"web": "http://www.electroson.com/",
+			"sells": "Componentes electrónica"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-8.721175,
+			42.233105]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#ff0000",
+			"marker-size": "medium",
+			"marker-symbol": "shop",
+			"name": "Electrónica Enrique",
+			"address": "Av. Alcalde Gregorio Espino, 85, 36205 Vigo, Pontevedra",
+			"web": "https://www.eenrique.com/inicio.htm",
+			"sells": "Componentes electrónica"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-8.721175,
+			42.233105]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#ff0000",
+			"marker-size": "medium",
+			"marker-symbol": "shop",
+			"name": "Castro Composites",
+			"address": "Polígono Industrial A Granxa, 3ª Paralela Parcela, Rúa C Cìes, 190, 36400 O Porriño, PO",
+			"web": "https://www.castrocomposites.com/",
+			"sells": "Resinas, Adhesivos, Barnices, Fibra..."
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-8.617718,
+			42.114176]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#ff0000",
+			"marker-size": "medium",
+			"marker-symbol": "shop",
+			"name": "Garcí Venta",
+			"address": "Subida Cementerio Puxeiros, 45, 36318 Vigo, Pontevedra",
+			"web": "http://tienda.garciventa.com/",
+			"sells": "Ferretería y material de construcción"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-8.672545,
+			42.216934]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#ff0000",
+			"marker-size": "medium",
+			"marker-symbol": "shop",
+			"name": "Orvilux Electricidad, S.L.",
+			"address": "Rúa Marqués de Valterra, 37, 36202 Vigo, Pontevedra",
+			"web": "",
+			"sells": "Material eléctrico"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-8.733043,
+			42.231309]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#ff0000",
+			"marker-size": "medium",
+			"marker-symbol": "shop",
+			"name": "Sunoba Suministros Industriales",
+			"address": "Rúa Marqués de Valterra, 1, 36202 Vigo, Pontevedra",
+			"web": "http://www.sunoba.net/",
+			"sells": "Juntas tóricas"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-8.731519,
+			42.234632]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#ff0000",
+			"marker-size": "medium",
+			"marker-symbol": "shop",
+			"name": "Vitor - Viguesa De Tornilleria",
+			"address": "C/ Tomás Paredes, nº 1 – 36208 de Vigo (Pontevedra)",
+			"web": "https://vitor.es/",
+			"sells": "Tornillos, tuercas, arandelas"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-8.753456,
+			42.221801]
+		}
+	}]
 }
