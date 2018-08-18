@@ -170,5 +170,24 @@
 			"coordinates": [-8.753456,
 			42.221801]
 		}
-	}]
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#ff0000",
+			"marker-size": "medium",
+			"marker-symbol": "shop",
+			"name": "Sonytel Galicia, S.A. Vigo",
+			"address": "Avda. Gran Vía, 52 - 36203 - Vigo (Pontevedra)",
+			"web": "",
+			"sells": "Electrónica: componentes y aparatos. Sonido."
+		},
+		"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-8.718952,
+			42.230652]
+		}
+	}
+	]
 }
