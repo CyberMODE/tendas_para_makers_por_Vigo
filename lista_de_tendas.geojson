@@ -188,6 +188,60 @@
 			-8.718952,
 			42.230652]
 		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#ff0000",
+			"marker-size": "medium",
+			"marker-symbol": "shop",
+			"name": "Bricocentro Paradelo",
+			"address": "Ctra. Camposancos, 88 - Vigo (Pontevedra)",
+			"web": "https://www.bricocentrovigo.es/",
+			"sells": "Ferretería, herramientas, chapa, corte de madera."
+		},
+		"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-8.75942,
+			42.19994]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#ff0000",
+			"marker-size": "medium",
+			"marker-symbol": "shop",
+			"name": "Bricoking Porriño",
+			"address": "Budiño, Parcela 260, P. I. A granxa - Vigo (Pontevedra)",
+			"web": "https://www.bricoking.es/",
+			"sells": "Ferretería, herramientas, chapa, corte de madera."
+		},
+		"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-8.6194,
+			42.1109]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#ff0000",
+			"marker-size": "medium",
+			"marker-symbol": "shop",
+			"name": "Hiromegal S.L.",
+			"address": "Poligono industrial A pasaxe nave 8, 36316, Vincios, Gondomar (Pontevedra)",
+			"web": "https://hiromegal.es/",
+			"sells": "Chapa y perfiles para carpintería metálica de aluminio y pvc."
+		},
+		"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-8.7220,
+			42.1542]
+		}
 	}
 	]
 }
